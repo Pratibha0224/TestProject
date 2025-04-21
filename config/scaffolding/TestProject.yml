@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestProject
+  gitServerName: PT
+  gitUrl: https://github.com/Pratibha0224
+  gitUsername: Pratibha0224
+  gitBranch: main
